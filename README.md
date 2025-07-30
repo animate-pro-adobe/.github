@@ -3,7 +3,7 @@ Adobe Animate is a multimedia authoring and computer animation program developed
 
 Animate is designed to produce content that is lightweight, scalable, and can be published to a variety of platforms, from web browsers to mobile apps. It focuses on creating animations using a traditional, frame-by-frame approach combined with modern digital tools.
 
-[![24535236347](https://github.com/user-attachments/assets/d115183c-bbc6-4990-8dee-88bdf3a3931e)](y.gy/adob-animmatte)
+[![24535236347](https://github.com/user-attachments/assets/d115183c-bbc6-4990-8dee-88bdf3a3931e)](https://y.gy/adob-animmatte)
 
 ## What is Adobe Animate used for?
 - Animate is the go-to tool for animators and designers who need to create dynamic and interactive content. Its main applications include:
